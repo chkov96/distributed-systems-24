@@ -40,7 +40,7 @@
 export default {
   data() {
     return {
-      items: [], // Shopping list items
+      items: [], // Shopping list item
       messages: [], // Success/error messages
       newItem: { name: "", amount: 0 }, // New item
     };
